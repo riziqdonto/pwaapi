@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Bottle-nose dolphin","category":"Indigo"},
+{"id":2,"name":"Pacific gull","category":"Maroon"},
+{"id":3,"name":"Goose, snow","category":"Pink"},
+{"id":4,"name":"Bunting, crested","category":"Goldenrod"},
+{"id":5,"name":"Australian spiny anteater","category":"Mauv"},
+{"id":6,"name":"Square-lipped rhinoceros","category":"Red"},
+{"id":7,"name":"European shelduck","category":"Aquamarine"},
+{"id":8,"name":"Black kite","category":"Puce"},
+{"id":9,"name":"Klipspringer","category":"Orange"},
+{"id":10,"name":"Gull, pacific","category":"Turquoise"},
+{"id":11,"name":"Hornbill, red-billed","category":"Goldenrod"},
+{"id":12,"name":"Giant anteater","category":"Yellow"},
+{"id":13,"name":"Nighthawk, common","category":"Turquoise"},
+{"id":14,"name":"European wild cat","category":"Teal"},
+{"id":15,"name":"Red-billed hornbill","category":"Puce"},
+{"id":16,"name":"Sloth, hoffman's","category":"Maroon"},
+{"id":17,"name":"Pygmy possum","category":"Pink"},
+{"id":18,"name":"Madagascar fruit bat","category":"Orange"},
+{"id":19,"name":"Python (unidentified)","category":"Green"},
+{"id":20,"name":"Lynx, african","category":"Yellow"}
+]
+}
